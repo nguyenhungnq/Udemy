@@ -9,6 +9,8 @@
 import UIKit
 
 class ViewController: UIViewController {
+    
+    var animation = UIViewController()
 
     override func viewDidLoad() {
         super.viewDidLoad()
